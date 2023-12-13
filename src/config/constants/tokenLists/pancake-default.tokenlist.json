@@ -1,0 +1,247 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://labswap.com/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+     {
+      "name": "Templar Token",
+      "symbol": "TEM",
+      "address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://labswap.com/images/tokens/0x19e6BfC1A6e4B042Fb20531244D47E252445df01.png"
+    },
+     {
+      "name": "KMZ Token",
+      "symbol": "KMZ",
+      "address": "0x9E1E967936347C608A2c42596CB809B3AA96366b",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://labswap.com/images/tokens/0x9E1E967936347C608A2c42596CB809B3AA96366b.png"
+    },
+    {
+      "name": "SHIB Token",
+      "symbol": "SHIB",
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D.png"
+    },
+    {
+      "name": "DOGE Token",
+      "symbol": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://labswap.com/images/tokens/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+    },
+     {
+      "name": "Metawarfare Token",
+      "symbol": "MWF",
+      "address": "0x7281c8d16E5ECe362540959d07922034887836D1",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://labswap.com/images/tokens/0x7281c8d16E5ECe362540959d07922034887836D1.png"
+    },
+    
+    {
+      "name": "Avocado Token",
+      "symbol": "AVO",
+      "address": "0xDA5d7C36513F13D275dd46CA2Bd2ADD566412A15",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://labswap.com/images/tokens/0xDA5d7C36513F13D275dd46CA2Bd2ADD566412A15.png"
+    },
+    {
+      "name": "Praise Fan Token",
+      "symbol": "Praise",
+      "address": "0x2a64ab26cd76f349144920E8a7A59C0D6B7F2967",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x2a64ab26cd76f349144920E8a7A59C0D6B7F2967.png"
+    },
+    {
+      "name": "LilX Floki Token",
+      "symbol": "LILX",
+      "address": "0x96694e2F40635Fa178f14C13772C02e614A4D5D2",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://labswap.com/images/tokens/0x96694e2F40635Fa178f14C13772C02e614A4D5D2.png"
+    },
+    {
+      "name": "Tiny Coin Token",
+      "symbol": "TINC",
+      "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e.png"
+    },
+    {
+      "name": "HighStreet Token",
+      "symbol": "HIGH",
+      "address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63.png"
+    },
+    {
+      "name": "CEEK Token",
+      "symbol": "TINC",
+      "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+     {
+      "name": "Luna",
+      "symbol": "LUNA",
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://labswap.com/images/tokens/0x156ab3346823B651294766e23e6Cf87254d68962.png"
+    },
+    {
+      "name": "Pancake Token",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Labswap Token",
+      "symbol": "ECOLAB",
+      "address": "0x21f557ab017a9af912089e49766e90889e37fd17",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.finance/images/tokens/0x21f557ab017a9af912089e49766e90889e37fd17.png"
+    },
+    {
+      "name": "Pixie Token",
+      "symbol": "PIXIE",
+      "address": "0x194177eee285b6827457e183e0e52b54e8f6f624",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.finance/images/tokens/0x194177eee285b6827457e183e0e52b54e8f6f624.png"
+    },    
+    {
+      "name": "Venus",
+      "symbol": "XVS",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
+    },
+    {
+      "name": "VAI Stablecoin",
+      "symbol": "VAI",
+      "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7.png"
+    },
+    {
+      "name": "Pancake Bunny",
+      "symbol": "BUNNY",
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
+    },
+    {
+      "name": "SafeMoon",
+      "symbol": "SAFEMOON",
+      "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://labswap.com/images/tokens/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5.png"
+    },
+    {
+      "name": "Alpaca",
+      "symbol": "ALPACA",
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+    },
+    {
+      "name": "Belt",
+      "symbol": "BELT",
+      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
+    },
+    {
+      "name": "TokoCrypto",
+      "symbol": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+    },
+    {
+      "name": "Nerve Finance",
+      "symbol": "NRV",
+      "address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+    },
+    {
+      "name": "Ellipsis",
+      "symbol": "EPS",
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://labswap.com/images/tokens/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+    }
+  ]
+}
